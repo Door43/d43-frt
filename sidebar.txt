@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[frt:home|Door43 (frt)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-frt|d43-frt repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-frt/archive/master.zip|d43-frt.zip]]
+
+**Recent Changes**
+{{changes>ns = frt}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/frt|Ethnologue data]]
+
